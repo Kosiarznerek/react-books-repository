@@ -1,0 +1,19 @@
+.users-get-one--card {
+    padding: 10px;
+    text-align: center;
+}
+
+.users-get-one--card>div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.users-get-one--card>div:not(:last-child) {
+    border-bottom: 2px solid #e5ecea;
+}
+
+.users-get-one--actions {
+    display: flex;
+    justify-content: space-evenly;
+}

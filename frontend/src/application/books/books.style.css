@@ -1,0 +1,22 @@
+#books--title-search-input {
+    margin-bottom: 20px;
+}
+
+#books--list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.books--card {
+    padding: 10px;
+    text-align: center;
+}
+
+.books--card:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.books--card-item {
+    cursor: pointer;
+}

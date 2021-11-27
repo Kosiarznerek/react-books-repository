@@ -1,0 +1,202 @@
+{
+    "users": [
+        {
+            "login": "admin",
+            "hashedPassword": "sha1$824b38f1$1$501b00ddb9a46d313db6588775bc83b0adb3e047",
+            "name": "Service",
+            "surname": "Administrator",
+            "isAdmin": true,
+            "favouriteBooksIds": [],
+            "id": "0c6d0123-1d51-43a0-832e-8b57b778ccf7"
+        },
+        {
+            "login": "sample",
+            "hashedPassword": "sha1$de426dbc$1$265862015be7c3166de49209c27c7e64310447bc",
+            "name": "Normal",
+            "surname": "Person",
+            "isAdmin": false,
+            "favouriteBooksIds": [],
+            "id": "d15898e2-2035-42ea-b6b0-f1ecfb67c836"
+        },
+        {
+            "login": "nprzybylski",
+            "hashedPassword": "sha1$41a33e76$1$af8a836104b6ce7d20d681aecba8f8c7ddcb0046",
+            "name": "Norbert",
+            "surname": "Przybylski",
+            "isAdmin": false,
+            "favouriteBooksIds": [],
+            "id": "64817b55-f78b-4af9-8295-0e86e4c875cf"
+        },
+        {
+            "login": "abaranowski",
+            "hashedPassword": "sha1$99db0e35$1$4446ad1e1da14e05c9af467d8746dbd806b90629",
+            "name": "Aleksander",
+            "surname": "Baranowski",
+            "isAdmin": false,
+            "favouriteBooksIds": [],
+            "id": "23f95926-ae18-411e-a387-a87ed8edf34e"
+        },
+        {
+            "login": "kszymczak",
+            "hashedPassword": "sha1$37e74830$1$7e5db017cfcf817374a6bfc9699fb87a8d260066",
+            "name": "Kordian",
+            "surname": "Szymczak",
+            "isAdmin": false,
+            "favouriteBooksIds": [],
+            "id": "03093823-3e17-42b2-812f-57e3e1d6c5ad"
+        },
+        {
+            "login": "dsawicki",
+            "hashedPassword": "sha1$39631dfb$1$eced59668b0d83f0e9828491b4048aa7da7fee5e",
+            "name": "Dariusz",
+            "surname": "Sawicki",
+            "isAdmin": false,
+            "favouriteBooksIds": [],
+            "id": "cc601566-a520-4514-9fee-9fbae971139b"
+        },
+        {
+            "login": "kmazurek",
+            "hashedPassword": "sha1$4eeba249$1$15abe415ebef8accc9668f90f8c64150752abf6a",
+            "name": "Krystian",
+            "surname": "Mazurek",
+            "isAdmin": false,
+            "favouriteBooksIds": [],
+            "id": "3668d8b4-e339-483c-b340-f79331f9e616"
+        },
+        {
+            "login": "akubiak",
+            "hashedPassword": "sha1$85af8188$1$5aa2e80025858c02dce56b4826076e91b7002188",
+            "name": "Anastazy",
+            "surname": "Kubiak",
+            "isAdmin": false,
+            "favouriteBooksIds": [],
+            "id": "557fbd4a-2d46-491f-8bea-03c6c2502b52"
+        },
+        {
+            "login": "jszymczak",
+            "hashedPassword": "sha1$683e059c$1$6dd3c60273ab666c114b59e70352ce420cf4b111",
+            "name": "Julian",
+            "surname": "Szymczak",
+            "isAdmin": false,
+            "favouriteBooksIds": [],
+            "id": "531531c6-7c3f-496a-b98f-6845b978ecd8"
+        },
+        {
+            "login": "ajasinska",
+            "hashedPassword": "sha1$4fdb4689$1$4416dc4dcf88dfc2f8d9b691f4de1ad888db514e",
+            "name": "Aleksandra",
+            "surname": "Jasińska",
+            "isAdmin": false,
+            "favouriteBooksIds": [],
+            "id": "5c35848c-283b-42cb-881e-e57344e28419"
+        },
+        {
+            "login": "lkrajewska",
+            "hashedPassword": "sha1$77543a5f$1$fcc45286e1c4a6fcc59942f77cfd71f2a39a3fb6",
+            "name": "Luiza",
+            "surname": "Krajewska",
+            "isAdmin": false,
+            "favouriteBooksIds": [],
+            "id": "934f3368-9dc1-4bf8-9f53-b4ca1b6f27e6"
+        },
+        {
+            "login": "zmaciejewska",
+            "hashedPassword": "sha1$57637a89$1$b82691c7765affcf004ebd3ea4f40d2c8eb893dd",
+            "name": "Zuzanna",
+            "surname": "Maciejewska",
+            "isAdmin": false,
+            "favouriteBooksIds": [],
+            "id": "aeeb6b77-a3a0-4989-8b2c-ef4064a39b43"
+        },
+        {
+            "login": "dgajewska",
+            "hashedPassword": "sha1$bdc4fe40$1$f6dc2ce14923b0aa94a3714376463e0c2a217570",
+            "name": "Dorota",
+            "surname": "Gajewska",
+            "isAdmin": false,
+            "favouriteBooksIds": [],
+            "id": "926ec734-c1b8-4efd-9e15-7e333d112ddc"
+        },
+        {
+            "login": "mczarnecka",
+            "hashedPassword": "sha1$bff2bd21$1$166c3fa8ef156cdbb7e0f0b81346551baf4f14cf",
+            "name": "Milena",
+            "surname": "Czarnecka",
+            "isAdmin": false,
+            "favouriteBooksIds": [],
+            "id": "27a9d5c3-b5a2-497f-b180-2274558132c1"
+        }
+    ],
+    "books": [
+        {
+            "title": "In Search of Lost Time",
+            "author": " Marcel Proust",
+            "coverUrl": "https://d3i5mgdwi2ze58.cloudfront.net/mnvwp5wfbhobunqz0zvbugosf892",
+            "description": "Swann's Way, the first part of A la recherche de temps perdu, Marcel Proust's seven-part cycle, was published in 1913. In it, Proust introduces the themes that run through the entire work. The narrator recalls his childhood, aided by the famous madeleine; and describes M. Swann's passion for Odette. The work is incomparable. Edmund Wilson said \"[Proust] has supplied for the first time in literature an equivalent in the full scale for the new theory of modern physics.\"",
+            "id": "b9e7b752-d1ca-42d1-979a-e0f4f0b59b99"
+        },
+        {
+            "title": "Ulysses",
+            "author": "James Joyce",
+            "coverUrl": "https://d3i5mgdwi2ze58.cloudfront.net/usuab7s8yuwlcmadwx9woy746lvi",
+            "description": "Ulysses chronicles the passage of Leopold Bloom through Dublin during an ordinary day, June 16, 1904. The title parallels and alludes to Odysseus (Latinised into Ulysses), the hero of Homer's Odyssey (e.g., the correspondences between Leopold Bloom and Odysseus, Molly Bloom and Penelope, and Stephen Dedalus and Telemachus). Joyce fans worldwide now celebrate June 16 as Bloomsday.",
+            "id": "3ea8cc2c-6713-419a-8309-6becf189fd9b"
+        },
+        {
+            "title": "Don Quixote",
+            "author": "Miguel de Cervantes",
+            "coverUrl": "https://d3i5mgdwi2ze58.cloudfront.net/lkhkljtqjtblzu5z3tusdbntj15a",
+            "description": "Alonso Quixano, a retired country gentleman in his fifties, lives in an unnamed section of La Mancha with his niece and a housekeeper. He has become obsessed with books of chivalry, and believes their every word to be true, despite the fact that many of the events in them are clearly impossible. Quixano eventually appears to other people to have lost his mind from little sleep and food and because of so much reading.",
+            "id": "60d0a10b-c19e-4945-afdc-0c5b3deae155"
+        },
+        {
+            "title": "One Hundred Years of Solitude",
+            "author": "Gabriel Garcia Marquez",
+            "coverUrl": "https://d3i5mgdwi2ze58.cloudfront.net/kxk6iwn543doz8jqbs2sckh2fcot",
+            "description": "One of the 20th century's enduring works, One Hundred Years of Solitude is a widely beloved and acclaimed novel known throughout the world, and the ultimate achievement in a Nobel Prize–winning career. The novel tells the story of the rise and fall of the mythical town of Macondo through the history of the Buendía family. It is a rich and brilliant chronicle of life and death, and the tragicomedy of humankind. In the noble, ridiculous, beautiful, and tawdry story of the Buendía family, one sees all of humanity, just as in the history, myths, growth, and decay of Macondo, one sees all of Latin America. Love and lust, war and revolution, riches and poverty, youth and senility — the variety of life, the endlessness of death, the search for peace and truth — these universal themes dominate the novel. Whether he is describing an affair of passion or the voracity of capitalism and the corruption of government, Gabriel García Márquez always writes with the simplicity, ease, andpurity that are the mark of a master. Alternately reverential and comical, One Hundred Years of Solitude weaves the political, personal, and spiritual to bring a new consciousness to storytelling. Translated into dozens of languages, this stunning work is no less than an accounting of the history of the human race.",
+            "id": "af8806ed-49aa-4a55-b00b-fb21159601dc"
+        },
+        {
+            "title": "War and Peace",
+            "author": "Leo Tolstoy",
+            "coverUrl": "https://d3i5mgdwi2ze58.cloudfront.net/swd3lfscp8lshlhuwfjng9s92o8q",
+            "description": "Epic in scale, War and Peace delineates in graphic detail events leading up to Napoleon's invasion of Russia, and the impact of the Napoleonic era on Tsarist society, as seen through the eyes of five Russian aristocratic families.",
+            "id": "7c480c7a-2859-4556-b3c2-b37f2008d384"
+        },
+        {
+            "title": "Hamlet",
+            "author": "William Shakespeare",
+            "coverUrl": "https://d3i5mgdwi2ze58.cloudfront.net/bn18q459ejqgr04pnx4uj3ezw1sm",
+            "description": "The Tragedy of Hamlet, Prince of Denmark, or more simply Hamlet, is a tragedy by William Shakespeare, believed to have been written between 1599 and 1601. The play, set in Denmark, recounts how Prince Hamlet exacts revenge on his uncle Claudius, who has murdered Hamlet's father, the King, and then taken the throne and married Gertrude, Hamlet's mother. The play vividly charts the course of real and feigned madness—from overwhelming grief to seething rage—and explores themes of treachery, revenge, incest, and moral corruption.",
+            "id": "1dc8a15b-02e0-4b90-a40c-aa2c0f081159"
+        },
+        {
+            "title": "The Odyssey",
+            "author": "Homer",
+            "coverUrl": "https://d3i5mgdwi2ze58.cloudfront.net/ihwv965787rm0zvkj6hg3f2taasw",
+            "description": "The Odyssey is one of two major ancient Greek epic poems attributed to Homer. It is, in part, a sequel to the Iliad, the other work traditionally ascribed to Homer. The poem is fundamental to the modern Western canon. Indeed it is the second—the Iliad being the first—extant work of Western literature. It was probably composed near the end of the eighth century BC, somewhere in Ionia, the Greek-speaking coastal region of what is now Turkey. The poem mainly centers on the Greek hero Odysseus (or Ulysses, as he was known in Roman myths) and his long journey home following the fall of Troy. It takes Odysseus ten years to reach Ithaca after the ten-year Trojan War. In his absence, it is assumed he has died, and his wife Penelope and son Telemachus must deal with a group of unruly suitors, the Mnesteres or Proci, competing for Penelope's hand in marriage.",
+            "id": "6941ffcb-2f89-454d-af44-2ce4bed7f412"
+        },
+        {
+            "title": "The Divine Comedy",
+            "author": "Dante Alighieri",
+            "coverUrl": "https://d3i5mgdwi2ze58.cloudfront.net/x9oilp1o53aty07nyh57oyogot20",
+            "description": "Belonging in the immortal company of the great works of literature, Dante Alighieri's poetic masterpiece, The Divine Comedy, is a moving human drama, an unforgettable visionary journey through the infinite torment of Hell, up the arduous slopes of Purgatory, and on to the glorious realm of Paradise — the sphere of universal harmony and eternal salvation.",
+            "id": "2703aa1b-836b-4d7d-a507-51295d994e9c"
+        },
+        {
+            "title": "Lolita",
+            "author": "Vladimir Nabokov",
+            "coverUrl": "https://d3i5mgdwi2ze58.cloudfront.net/nvy6ejcvrr7ciz8q116mbkh6pj7w",
+            "description": "The book is internationally famous for its innovative style and infamous for its controversial subject: the protagonist and unreliable narrator, middle aged Humbert Humbert, becomes obsessed and sexually involved with a twelve-year-old girl named Dolores Haze.",
+            "id": "fb0e33ef-83fe-4fa3-a9d9-a14997777d75"
+        },
+        {
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoyevsky",
+            "coverUrl": "https://d3i5mgdwi2ze58.cloudfront.net/sliuygtth8qftz1mt6pzrsom284g",
+            "description": "It is a murder story, told from a murder;s point of view, that implicates even the most innocent reader in its enormities. It is a cat-and-mouse game between a tormented young killer and a cheerfully implacable detective. It is a preternaturally acute investigation of the forces that impel a man toward sin, suffering, and grace. Ever since its publication in 1866 Crime and Punishment has intrigued readers and sorely tested translators, the best of whom seemed to capture one facet of Dostoevsky's masterpiece while missing the rest.",
+            "id": "155330d3-3f64-404f-b5a5-95eba832484c"
+        }
+    ]
+}

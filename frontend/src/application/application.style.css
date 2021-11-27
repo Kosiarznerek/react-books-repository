@@ -1,0 +1,18 @@
+#application--container {
+    padding: 20px;
+    height: calc(100% - 40px);
+    width: calc(100% - 40px);
+}
+
+#application--nav {
+    background-color: #13AA52;
+    padding: 10px;
+    display: flex;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+#application--nav h3 {
+    color: white;
+    width: 100%;
+}

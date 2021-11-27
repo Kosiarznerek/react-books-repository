@@ -1,0 +1,12 @@
+.books-update--card {
+    padding: 10px;
+    text-align: center;
+}
+
+#books-update--form>div {
+    margin-bottom: 10px;
+}
+
+#books-update--form>button {
+    width: 100%;
+}

@@ -1,0 +1,9 @@
+.books-get-one--card {
+    padding: 10px;
+    text-align: center;
+}
+
+.books-get-one--actions {
+    display: flex;
+    justify-content: space-evenly;
+}

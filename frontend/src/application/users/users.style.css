@@ -1,0 +1,18 @@
+#users--list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.users--card {
+    padding: 10px;
+    text-align: center;
+}
+
+.users--card:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.users--card-item {
+    cursor: pointer;
+}

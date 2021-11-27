@@ -1,0 +1,12 @@
+.users-update--card {
+    padding: 10px;
+    text-align: center;
+}
+
+.users-update--form>div {
+    margin-bottom: 10px;
+}
+
+.users-update--form>button {
+    width: 100%;
+}
