@@ -5,7 +5,7 @@ This is simple books site.
 ```bash
 PS C:\react-books-repository> cd backend
 PS C:\react-books-repository\backend> npm ci
-PS C:\react-books-repositoryt\backend> npm run start
+PS C:\react-books-repository\backend> npm run start
 ```
 ```bash
 PS C:\react-books-repository> cd frontend
