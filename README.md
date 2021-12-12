@@ -1,16 +1,16 @@
-# Books website
+# React books repository
 This is simple books site.
 
 ## How to run project
 ```bash
-PS C:\ssi-team-project> cd backend
-PS C:\ssi-team-project\backend> npm ci
-PS C:\ssi-team-project\backend> npm run start
+PS C:\react-books-repository> cd backend
+PS C:\react-books-repository\backend> npm ci
+PS C:\react-books-repositoryt\backend> npm run start
 ```
 ```bash
-PS C:\ssi-team-project> cd frontend
-PS C:\ssi-team-project\frontend> npm ci
-PS C:\ssi-team-project\frontend> npm run start
+PS C:\react-books-repository> cd frontend
+PS C:\react-books-repository\frontend> npm ci
+PS C:\react-books-repository\frontend> npm run start
 ```
 
 ## Test users
